@@ -1,2 +1,2 @@
-# nyneszn-website
+# My Neocities
 My personal neocities website repository.
